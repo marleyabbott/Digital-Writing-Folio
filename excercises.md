@@ -5,6 +5,7 @@
     }
   </style>
 </head>
+
 # Digital Writing
 ## Exercises
 ### Week 1 Reflection: 
