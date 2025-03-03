@@ -1,3 +1,8 @@
+<style>
+  body {
+    background-color: #d3e4b2
+  }
+</style>
 # Digital Writing
 ## Exercises
 ### Week 1 Reflection: 
