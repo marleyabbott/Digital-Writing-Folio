@@ -4,6 +4,7 @@
 <p>
 On the tram to uni this morning, I wrote this down in my notebook:
 'These systems we rely on to run our lives (like Google), are much more fragile than they seem. We believe, because our whole lives are stored and tracked and planned with the systems, that they are permanent, structurally sound, safe. But then someone like Elon Musk can buy Google, ruin it and we will move on to something else. The things that we thought were so permanent and important won't be anymore'.
+
 <em> A repository is like a [container]. A place to store all of the information. All of the language. 
   You push, I pull.
 On the phone you said that you still loved me. 
