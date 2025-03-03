@@ -1,8 +1,10 @@
-<style>
-  body {
-    background-color: #d3e4b2;
-  }
-</style>
+<head>
+  <style>
+    body {
+      background-color: #d3e4b2;
+    }
+  </style>
+</head>
 # Digital Writing
 ## Exercises
 ### Week 1 Reflection: 
