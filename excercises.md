@@ -20,4 +20,6 @@ But then I think about all of the stories I've read online. How they've shifted 
 <em> Are we really producing this amount of carbon emissions for something that can all just disappear? 
 CO2 isn't seen, but it's effects are felt. 
 E-lit is like a gas, it slips through your fingers but does something permanent to your hands on the way through.</em>
+
+Maybe not knowing how to do this, not knowing how to control the format and language like I normally can will show me something about my writing that I couldn't see before. I feel like I'm feeling my way around in the dark until I commit the changes. And it usually looks different to what I was expecting, but sometimes it looks better. 
 </p>
