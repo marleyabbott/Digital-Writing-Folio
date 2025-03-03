@@ -1,6 +1,6 @@
 <style>
   body {
-    background-color: #d3e4b2
+    background-color: #d3e4b2;
   }
 </style>
 # Digital Writing
