@@ -23,3 +23,15 @@ E-lit is like a gas, it slips through your fingers but does something permanent 
 
 Maybe not knowing how to do this, not knowing how to control the format and language like I normally can will show me something about my writing that I couldn't see before. I feel like I'm feeling my way around in the dark until I commit the changes. And it usually looks different to what I was expecting, but sometimes it looks better. 
 </p>
+
+### Week 2 Reflection: 
+</p>
+Frustrated at the coding practice, but starting to internally map what a Folio might look like. When choosing photos for our glitch coding playground, my computer brought up images of my familie's village, Santo Todaro in Calabria. It felt like a sign. I opened an old writing project about Italy and my heritage which tried to get near the elusive experience of visiting the village for the first time, and not knowing how to speak the language. Being by myself in that small mountainous street. Fumbling my way through conversations, everything felt like a bad translation.
+
+I think that's where I want to go with my folio, that frustration, and grief at nearly, but not quite understanding something that I should. Like coding because I grew up in a digital era, or my Italian dialect, because it is who I am. I should know these things. I don't. 
+
+In glitch when we input the new code for the 'retry' computer error container, all of these memories of bad translations came to me. Those sexual inuendos I didn't mean to make in front of my zio e zia, when I vomited on my first night and tried to explain that I was sick (male) but recieved a giant platter of fruit in return (apple- mela). 
+
+Still the thing that stays with me most about that trip to Calabria, the homecoming, is after that exhausting day of nearing the village and then not quite reaching it, the tears that wouldn't stop when I hugged my relatives who I had never met, was the wild boar that groaned a goodbye to me as we drove through the sunset, back to the sea. 
+
+How to make something so analogue, like the deserted little village, make sense in a digital format? My only idea so far is to use 'the tank' (the water tank my mum lived in for a portion of her childhood), as the 'container' for something. 
