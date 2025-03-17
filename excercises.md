@@ -25,7 +25,7 @@ Maybe not knowing how to do this, not knowing how to control the format and lang
 </p>
 
 ### Week 2 Reflection: 
-</p>
+<p>
 Frustrated at the coding practice, but starting to internally map what a Folio might look like. When choosing photos for our glitch coding playground, my computer brought up images of my familie's village, Santo Todaro in Calabria. It felt like a sign. I opened an old writing project that I never finished about Italy and my heritage. The piece attempted to get near the elusive experience of visiting the village for the first time and not knowing how to speak the language. Being by myself in that small mountainous street. Fumbling my way through conversations, everything felt like a bad translation.
 
 I think that's where I want to go with my folio, that frustration and grief at nearly, but not quite understanding something that I should. Like coding because I grew up in a digital era, or my Italian dialect, because it is who I am. I should know these things. I don't. 
@@ -37,3 +37,17 @@ The homecoming, that exhausting day of driving around and around the mountain, n
 How to make something so analogue, like that deserted little village, make sense in a digital format? My only idea so far is to use 'the tank' (the water tank my mum lived in for a portion of her childhood), as the 'container' for something. Like the containers on glitch that we are coding.
 
 I can see a connection forming between the language of coding and the calabrese dialect. The different knowledges emerging and also the not knowing.
+</p>
+
+### Week 2 Reflection: 
+<p>
+Finally, let's reflect on our remixed versions of Nick Monfort's poems. Edit the edit exercises.md page in your GitHub digital writing folio and add the following questions with your answers to the questions:
+
+What aspects of the remix are the same?
+What aspects of the remix are different?
+Is the remix successful (why or why not)?
+Now that we have completed the technical HTML/CSS/JS portion of our learning, reflect also on these questions:
+
+How do you feel about coding now versus how you felt going into this in Week 1?
+Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
+</p>
