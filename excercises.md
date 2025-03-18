@@ -40,6 +40,9 @@ I can see a connection forming between the language of coding and the calabrese 
 </p>
 
 ### Week 2 Reflection: 
+
+https://collection.eliterature.org/4/how-to-rob-a-bank
+
 <p>
 Finally, let's reflect on our remixed versions of Nick Monfort's poems. Edit the edit exercises.md page in your GitHub digital writing folio and add the following questions with your answers to the questions:
 
