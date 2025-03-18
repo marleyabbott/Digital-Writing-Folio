@@ -21,3 +21,13 @@ This work intrigued me most, although I was frustrated at myself because I could
 
    
 ### Week 2 Reflection: 
+
+
+
+### Week 3 Reflection:
+
+
+Beyond Taxonomy: Digital Poetics and the Problem of Reading
+
+#### 'There is nothing to click on, no decision to be made—other than what text to read. The user is engaged at the level of consumption rather
+than participation'.
