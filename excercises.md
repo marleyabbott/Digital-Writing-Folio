@@ -54,3 +54,7 @@ Now that we have completed the technical HTML/CSS/JS portion of our learning, re
 How do you feel about coding now versus how you felt going into this in Week 1?
 Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
 </p>
+
+### Week 3 Reflection:
+![AA37099C-F827-4972-B96E-CE7B592A9338_1_105_c](https://github.com/user-attachments/assets/d9c09223-44dd-49cb-8489-f370163a0ae7)
+
