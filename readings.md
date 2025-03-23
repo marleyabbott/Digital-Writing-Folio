@@ -5,7 +5,7 @@
 
 #### The kinetic poem ["Taroko Gorge"](https://collection.eliterature.org/3/work.html?work=taroko-gorge)
 
-I didn't find this piece particularly engaging, although the idea of 'remixing' a poem endlessly using coding interests me for it's possibilities of infinite meaning-making, similar to a cento poem. 
+I didn't find this piece particularly engaging, although the idea of 'remixing' a poem endlessly using coding interests me for its possibilities of infinite meaning-making, similar to a cento poem. 
    
 #### The electronic poem ["The Gathering Cloud"](https://luckysoap.com/thegatheringcloud/)
 
@@ -19,15 +19,7 @@ This was a strange text that I almost hesitate to call a text because of how pla
 
 This work intrigued me most, although I was frustrated at myself because I could not figure out how to get him to drink water! Now that I have read 'Enlightening Interactive Fiction: Andrew Plotkin’s Shade' by Jeremy Douglass, I understand the unfolding of the narrative (although I am quite sure I would never have been able to get to the ending myself). The illusion and dissolving of the reality we are made to believe in from the beginning of the work is both brutal and beautiful. The simplicity of the form (no visuals, only text), implicates the reader into the narrative by forcing us to use our imaginations. I had a distinct picture of what the apartment looked like in mind, and that world I had created naturally expanded as I (the player? the character?) moved into different spaces. The second-person voice is also distinct from most traditional fiction writing, again implicating the reader into a 'making' of the work, where their decisions and active engagement are needed to further a narrative. 
 
-   
-### Week 2 Reflection: 
-
-
-
 ### Week 3 Reflection:
-
-Defining Electronic Literature
-Edit the readings.md page in your digital writing folio and add the following questions below. Answer these questions with reference to Week 1 & 2 readings (you can include anything from week 3 if you wish but W1&2 are probably most relevant). This passage should be 500 - 750 words.
 
 What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 How are those elements meaningful?
