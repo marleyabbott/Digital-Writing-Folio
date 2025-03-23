@@ -60,7 +60,7 @@ In my perspective, algorithmic writing is a means of collaboration, but instead 
 
 #### Lipograms:
 
-<em> Original text</em> :
+<em> Original text:</em> 
 You sit on a rock alongside the river at the bottom of the mountain while Zio pokes his pear tree with a stick. You crawl on the overgrown grass to collect them in a Carrefour bag that he holds open. 
 You eat. You press down your wrist. Fuck it- you cry. 
 Snot greeting vomit and shit in your gut. Blood on the bedsheets, blood in between teeth. Saltwater creates scales of your palms. Black stains on your feet you’re not sure you’ll ever get out. Purple polka-dotted legs- you scale between male and not male. You pendulum back and forth ten times in an hour.  
@@ -78,7 +78,7 @@ Snot greeting and shit in your gut. Blood on the bedsheets, blood in between tee
 
 ##### Prisoner's Constraint:
 
-Origional text:
+<em>Original text:</em>
 On the first night there is vomit.
 Before the vomit she talks at you in the language you have pretended to understand since the morning at the train station where they picked you up and tossed your bags into the back.  
 The couch is made of wooden pellets, covered in thin foam. Foam bubbles up and coats your tongue. 
@@ -92,7 +92,8 @@ She walks in mid-vomit and comforts you with words that feel-are familiar.
 Mid shower, the water runs out. You stand naked in front of the tiny sink rinsing shampoo from your dead ends. 
 Outside the bathroom window, a soccer ball is tossed between small dirty soles. 
 
-<em> Lipogram</em> :
+<em> Lipogram:</em> 
+
 On is.
 she you in since up.  
 couch is of, in. up. 
@@ -105,39 +106,28 @@ She in and are.
 shower, runs. in. 
 ,a soccer is soles. 
 
-##### Mesotics: 
-Vomit on the first night. 
-I
-L
-L
-A
-G
-E
+#### Mesotics Poem
 
-##### Remix N+7:
+##### (VILLAGE): 
+Vomit on the first night
+Inside the bedroom-sized house
+Lead you up the sloped street
+Local catholic channel continues playing in the background
+A <em>strega</em> with a hooked nose
+Gravel-made, pot-holed roads
+Everyone smiles. 
+
+##### Mesotic Poem generator (THE TANK):
+
+           firsT
+            nigHt
+ is vomit beforE
+               The vomit
+          she tAlks
+           at iN you have pretended understand
+       they picKed splinters
+
+#### Remix N+7:
 https://flicker-detailed-scilla.glitch.me
-
-
-
-Mesostics
-Decide on a mesostic word. Rewrite a short piece of writing using this word as the spine word.
-
-
-
-Constraint and Process
-Create a constraint (a restriction on your writing such as not using a letter (lipogram) or using a set number of syllables)
-Create a process (a process for creating writing such as picking the third word of each page of a book)
-Code
-
-
-Taroko Gorge(s)
-*Optional exercise as we didn't get through it in class.
-
-Select a remixed Taroko Gorge and edit the exercises.md page in your digital writing folio and add the following questions with your answers to the questions:
-
-What aspects of the remix are the same?
-What aspects of the remix are different?
-Is the remix successful (why or why not)?
-</p>
 
 
