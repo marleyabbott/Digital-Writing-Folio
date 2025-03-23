@@ -109,23 +109,16 @@ shower, runs. in.
 #### Mesotics Poem
 
 ##### (VILLAGE): 
-Vomit on the first night
-Inside the bedroom-sized house
-Lead you up the sloped street
-Local catholic channel continues playing in the background
-A <em>strega</em> with a hooked nose
-Gravel-made, pot-holed roads
-Everyone smiles. 
+<p>Vomit on the first night</p>
+<p>Inside the bedroom-sized house</p>
+<p>Lead you up the sloped street</p>
+<p>Local catholic channel continues playing in the background</p>
+<p>A <span class="italic">strega</span> with a hooked nose</p>
+<p>Gravel-made, pot-holed roads</p>
+<p>Everyone smiles.</p>
 
 ##### Mesotic Poem generator (THE TANK):
-
-           firsT
-            nigHt
- is vomit beforE
-               The vomit
-          she tAlks
-           at iN you have pretended understand
-       they picKed splinters
+<img width="642" alt="Screenshot 2025-03-23 at 3 50 16 PM" src="https://github.com/user-attachments/assets/b990e909-9519-4d23-8bea-a81bbd4498ab" />
 
 #### Remix N+7:
 https://flicker-detailed-scilla.glitch.me
