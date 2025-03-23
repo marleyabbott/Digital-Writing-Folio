@@ -60,7 +60,7 @@ In my perspective, algorithmic writing is a means of collaboration, but instead 
 
 #### Lipograms:
 
-<em> Original text<em> :
+<em> Original text</em> :
 You sit on a rock alongside the river at the bottom of the mountain while Zio pokes his pear tree with a stick. You crawl on the overgrown grass to collect them in a Carrefour bag that he holds open. 
 You eat. You press down your wrist. Fuck it- you cry. 
 Snot greeting vomit and shit in your gut. Blood on the bedsheets, blood in between teeth. Saltwater creates scales of your palms. Black stains on your feet you’re not sure you’ll ever get out. Purple polka-dotted legs- you scale between male and not male. You pendulum back and forth ten times in an hour.  
@@ -68,16 +68,12 @@ Use pen and paper in applying the following processes and constraints. Take a ph
 
 ##### The letter 'E':
 In village your was born, is not arid or tropical but do with With sit on a rock at bottom of Zio his with a stick. crawl on grass to in a bag that holds
-
 You You down your wrist. Fuck it- cry.
-
 Snot vomit and shit in your gut. Blood on blood in Saltwater of your palms. Black stains on your not out. legs- scale and not You back and forth in an hour.
 
 ##### The letter 'M':
 In the village where your was born, the heat is not arid or tropical but something else, something to do with the Something to do with belief. With sit on a rock alongside the river at the bottom of the while Zio pokes his pear tree with a stick. You crawl on the overgrown grass to collect the in a Carrefour bag that he holds open.
-
 You eat. You press down your wrist. Fuck it- you cry.
-
 Snot greeting and shit in your gut. Blood on the bedsheets, blood in between teeth. Saltwater creates scales of your Black stains on your feet you’re not sure you’ll ever get out. Purple polka-dotted legs- you scale between and not You pendulum back and forth ten in an hour.
 
 ##### Prisoner's Constraint:
@@ -96,7 +92,7 @@ She walks in mid-vomit and comforts you with words that feel-are familiar.
 Mid shower, the water runs out. You stand naked in front of the tiny sink rinsing shampoo from your dead ends. 
 Outside the bathroom window, a soccer ball is tossed between small dirty soles. 
 
-<em> Lipogram<em> :
+<em> Lipogram</em> :
 On is.
 she you in since up.  
 couch is of, in. up. 
@@ -109,23 +105,24 @@ She in and are.
 shower, runs. in. 
 ,a soccer is soles. 
 
+##### Mesotics: 
+Vomit on the first night. 
+I
+L
+L
+A
+G
+E
 
-
-
-https://collection.eliterature.org/4/how-to-rob-a-bank
-
-<p>
-
+##### Remix N+7:
+https://flicker-detailed-scilla.glitch.me
 
 
 
 Mesostics
 Decide on a mesostic word. Rewrite a short piece of writing using this word as the spine word.
 
-N+7
-Replace every noun in a short piece of writing with the seventh noun that is found after it in a dictionary.
 
-Vary this technique (e.g. N+9).
 
 Constraint and Process
 Create a constraint (a restriction on your writing such as not using a letter (lipogram) or using a set number of syllables)
@@ -133,15 +130,6 @@ Create a process (a process for creating writing such as picking the third word 
 Code
 
 
-Remix N+7
-*Optional exercise as we didn't get through it in class.
-
-Select "Remix on Glitch" on "N+7"
-Create a repository in GitHub for the remix
-Change the article text 
-Change the difference in number of nouns
-Export to GitHub after each change
-For your final assessment, add a link to your Glitch project in your digital writing folio
 Taroko Gorge(s)
 *Optional exercise as we didn't get through it in class.
 
@@ -152,6 +140,4 @@ What aspects of the remix are different?
 Is the remix successful (why or why not)?
 </p>
 
-### Week 3 Reflection:
-![AA37099C-F827-4972-B96E-CE7B592A9338_1_105_c](https://github.com/user-attachments/assets/d9c09223-44dd-49cb-8489-f370163a0ae7)
 
