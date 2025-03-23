@@ -41,28 +41,84 @@ I can see a connection forming between the language of coding and the calabrese 
 
 ### Week 3 Reflection: 
 
+I sat down at a cafe on Friday morning and edited my Glitch coding playground. To my surprise, for the first time in this class, I enjoyed the process of coding. Since I have been doing freecodecamp week by week, I can see my understanding of the language and structure of coding expand. With help from GPT, I was able to make some significant changes to the playground, removing containers that didn't make sense to my theme. 
+
+#### What is an algorithm? What is a constraint?
+An algorithm is a step-by-step set of instructions or rules designed to perform a task or solve a problem. It can be as simple as a recipe for baking a cake or as complex as the code behind search engines and artificial intelligence. A constraint is a limitation or condition that must be followed when solving a problem or designing a system. Constraints exist in many areas, including coding, writing, design, and real-world problem-solving.
+(from chatGPT) 
+
+#### Can you think of ways you might already be using these in your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
+I use an algorithm to organise my writing life on a program called Notion. My notion stores my yearly writing projects where I can drag and drop them into Rick Rubin's craft stages: seed, experimentation, craft, workshop (my addition), completion and publication. In my Notion software I also keep my artist statement, a monthly lexicon of new words, a calendar with my publication dates and submission close dates, and a 'honey pot' of writing prompts and ideas that I can turn to when in need of inspiration. 
+
+I use constraints in various ways in my practice, from setting boundaries with writing time (One 4 hour+ weekly writing session where my phone stays off and I work on a personal writing project), goals around production of work (last year I completed one writing project a month in aims of building a portfolio for publication), different methodologies or practices I might bring into my work (play when my work feels stale or serious, devotion when I want to commit to completing a piece) and writing prompts or exercises similar to ones we explored in class, in aims of expanding my writing into new territory. 
+
+#### Why were the Oupilo writers so interested in the intersection of maths and literature?
+The Oupilo writers were fascinated by the intersection of maths and literature because of the possibilities of creative constraints. When mathematical structures or rules are applied to writing, it can produce unexpected results. 
+
+#### How does algorithmic writing make us think differently about authorship?
+In my perspective, algorithmic writing is a means of collaboration, but instead of collaborating with a peer you are collaborating with an algorithm or machine, made by humans. The idea of 'remixing' work certainly blurs the lines between plagiarism and inspiration, which to me feels like a natural consequence of the breadth of writing freely available to interact with on the internet. The analogue version of 'remixing' someone else's work might be the cento poem, which is a poem made up of words from other poets. When thinking about algorithmic writing the book Theory of Colours by Johann Wolfgang von Goethe comes to mind, a book entirely composed of other author's words on theme of colour.
+
+#### Lipograms:
+
+<em> Original text<em> :
+You sit on a rock alongside the river at the bottom of the mountain while Zio pokes his pear tree with a stick. You crawl on the overgrown grass to collect them in a Carrefour bag that he holds open. 
+You eat. You press down your wrist. Fuck it- you cry. 
+Snot greeting vomit and shit in your gut. Blood on the bedsheets, blood in between teeth. Saltwater creates scales of your palms. Black stains on your feet you’re not sure you’ll ever get out. Purple polka-dotted legs- you scale between male and not male. You pendulum back and forth ten times in an hour.  
+Use pen and paper in applying the following processes and constraints. Take a photo of the results or transcribe them and add them to your folio:
+
+##### The letter 'E':
+In village your was born, is not arid or tropical but do with With sit on a rock at bottom of Zio his with a stick. crawl on grass to in a bag that holds
+
+You You down your wrist. Fuck it- cry.
+
+Snot vomit and shit in your gut. Blood on blood in Saltwater of your palms. Black stains on your not out. legs- scale and not You back and forth in an hour.
+
+##### The letter 'M':
+In the village where your was born, the heat is not arid or tropical but something else, something to do with the Something to do with belief. With sit on a rock alongside the river at the bottom of the while Zio pokes his pear tree with a stick. You crawl on the overgrown grass to collect the in a Carrefour bag that he holds open.
+
+You eat. You press down your wrist. Fuck it- you cry.
+
+Snot greeting and shit in your gut. Blood on the bedsheets, blood in between teeth. Saltwater creates scales of your Black stains on your feet you’re not sure you’ll ever get out. Purple polka-dotted legs- you scale between and not You pendulum back and forth ten in an hour.
+
+##### Prisoner's Constraint:
+
+Origional text:
+On the first night there is vomit.
+Before the vomit she talks at you in the language you have pretended to understand since the morning at the train station where they picked you up and tossed your bags into the back.  
+The couch is made of wooden pellets, covered in thin foam. Foam bubbles up and coats your tongue. 
+Before talk there is sugo and melone and formaggio sliced thinly and a bottle of homemade red wine. 
+You decline. You retract. You are drunk. 
+A woman working in the bar corrects your sentences. You repeat after her. Swirl the words around your mouth. Chew on them, swallow, 
+but they come rising back up.  
+Bile tainted with track changes. 
+You sit on the wooden pellet couch that is covered in a red blanket. You try the acupuncture technique to stop nausea that the remedial massage therapist you used to date taught you. You press down on your right wrist with your left thumb.
+She walks in mid-vomit and comforts you with words that feel-are familiar. 
+Mid shower, the water runs out. You stand naked in front of the tiny sink rinsing shampoo from your dead ends. 
+Outside the bathroom window, a soccer ball is tossed between small dirty soles. 
+
+<em> Lipogram<em> :
+On is.
+she you in since up.  
+couch is of, in. up. 
+is sugo and melone a wine. 
+are. 
+A woman in. Chew on, 
+come up. 
+on couch is covered in a. nausea. on.
+She in and are. 
+shower, runs. in. 
+,a soccer is soles. 
+
+
+
+
 https://collection.eliterature.org/4/how-to-rob-a-bank
 
 <p>
 
-Algorithm and Constraint
-Questions:
-What is an algorithm? What is a constraint?
-Can you think of ways you might already be using thesein your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
-Why were the Oupilo writers so interested in the intersection of maths and literature?
-How does algorthmic writing make us think differently about authorship?
-Pen and Paper
-Use pen and paper in applying the following processes and constraints. Take a photo of the results or transcribe them and add them to your folio.
 
-To Make a Dadaist Poem
-Follow the instructions for Tristan Tzara's "To Make a Dadaist Poem".
 
-Lipograms
-Rewrite a very short piece of writing for each of the following constraints:
 
-The letter e
-Any other letter
-All the following letters: b, d, f, g, h, j, k, l, p, q, t, and y (prisoner's constraint)
 Mesostics
 Decide on a mesostic word. Rewrite a short piece of writing using this word as the spine word.
 
@@ -75,20 +131,14 @@ Constraint and Process
 Create a constraint (a restriction on your writing such as not using a letter (lipogram) or using a set number of syllables)
 Create a process (a process for creating writing such as picking the third word of each page of a book)
 Code
-Remix "To Make a Dadaist Poem"
-If you haven't done so already, create a Glitch account by signing up with your GitHub account and link your GitHub account
-Select "Remix on Glitch" on "To Make a Dadaist Poem"
-Create a repository in GitHub for the remix
-Change the article text (use your own text, text from a newspaper article or from a book on Project Gutenberg)
-Change the line length
-Export to GitHub after each change
-For your final assessment, add a link to your Glitch project in your digital writing folio
+
+
 Remix N+7
 *Optional exercise as we didn't get through it in class.
 
 Select "Remix on Glitch" on "N+7"
 Create a repository in GitHub for the remix
-Change the article text
+Change the article text 
 Change the difference in number of nouns
 Export to GitHub after each change
 For your final assessment, add a link to your Glitch project in your digital writing folio
