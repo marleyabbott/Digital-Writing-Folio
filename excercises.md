@@ -39,20 +39,74 @@ How to make something so analogue, like that deserted little village, make sense
 I can see a connection forming between the language of coding and the calabrese dialect. The different knowledges emerging and also the not knowing.
 </p>
 
-### Week 2 Reflection: 
+### Week 3 Reflection: 
 
 https://collection.eliterature.org/4/how-to-rob-a-bank
 
 <p>
-Finally, let's reflect on our remixed versions of Nick Monfort's poems. Edit the edit exercises.md page in your GitHub digital writing folio and add the following questions with your answers to the questions:
+Defining Electronic Literature
+Edit the readings.md page in your digital writing folio and add the following questions below. Answer these questions with reference to Week 1 & 2 readings (you can include anything from week 3 if you wish but W1&2 are probably most relevant). This passage should be 500 - 750 words.
+
+What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+How are those elements meaningful?
+How are the works read differently from print literature?
+How is electronic literature different from print literature?
+What are the qualities of the works we might consider as qualities of electronic literature?
+Algorithm and Constraint
+Questions:
+What is an algorithm? What is a constraint?
+Can you think of ways you might already be using thesein your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
+Why were the Oupilo writers so interested in the intersection of maths and literature?
+How does algorthmic writing make us think differently about authorship?
+Pen and Paper
+Use pen and paper in applying the following processes and constraints. Take a photo of the results or transcribe them and add them to your folio.
+
+To Make a Dadaist Poem
+Follow the instructions for Tristan Tzara's "To Make a Dadaist Poem".
+
+Lipograms
+Rewrite a very short piece of writing for each of the following constraints:
+
+The letter e
+Any other letter
+All the following letters: b, d, f, g, h, j, k, l, p, q, t, and y (prisoner's constraint)
+Mesostics
+Decide on a mesostic word. Rewrite a short piece of writing using this word as the spine word.
+
+N+7
+Replace every noun in a short piece of writing with the seventh noun that is found after it in a dictionary.
+
+Vary this technique (e.g. N+9).
+
+Constraint and Process
+Create a constraint (a restriction on your writing such as not using a letter (lipogram) or using a set number of syllables)
+Create a process (a process for creating writing such as picking the third word of each page of a book)
+Code
+Remix "To Make a Dadaist Poem"
+If you haven't done so already, create a Glitch account by signing up with your GitHub account and link your GitHub account
+Select "Remix on Glitch" on "To Make a Dadaist Poem"
+Create a repository in GitHub for the remix
+Change the article text (use your own text, text from a newspaper article or from a book on Project Gutenberg)
+Change the line length
+Export to GitHub after each change
+For your final assessment, add a link to your Glitch project in your digital writing folio
+Remix N+7
+*Optional exercise as we didn't get through it in class.
+
+Select "Remix on Glitch" on "N+7"
+Create a repository in GitHub for the remix
+Change the article text
+Change the difference in number of nouns
+Export to GitHub after each change
+For your final assessment, add a link to your Glitch project in your digital writing folio
+Taroko Gorge(s)
+*Optional exercise as we didn't get through it in class.
+
+Select a remixed Taroko Gorge and edit the exercises.md page in your digital writing folio and add the following questions with your answers to the questions:
 
 What aspects of the remix are the same?
 What aspects of the remix are different?
 Is the remix successful (why or why not)?
-Now that we have completed the technical HTML/CSS/JS portion of our learning, reflect also on these questions:
-
-How do you feel about coding now versus how you felt going into this in Week 1?
-Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
 </p>
 
 ### Week 3 Reflection:
