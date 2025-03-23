@@ -44,14 +44,7 @@ I can see a connection forming between the language of coding and the calabrese 
 https://collection.eliterature.org/4/how-to-rob-a-bank
 
 <p>
-Defining Electronic Literature
-Edit the readings.md page in your digital writing folio and add the following questions below. Answer these questions with reference to Week 1 & 2 readings (you can include anything from week 3 if you wish but W1&2 are probably most relevant). This passage should be 500 - 750 words.
 
-What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
-How are those elements meaningful?
-How are the works read differently from print literature?
-How is electronic literature different from print literature?
-What are the qualities of the works we might consider as qualities of electronic literature?
 Algorithm and Constraint
 Questions:
 What is an algorithm? What is a constraint?
