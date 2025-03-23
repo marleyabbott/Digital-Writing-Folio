@@ -9,5 +9,5 @@ https://www.mirandaabbott.com.au/
 ### Dadaist Poem:
 https://marley-dadaist-poem.glitch.me
 
-### Mesotic Poem:
+### N+7 Poem:
 https://flicker-detailed-scilla.glitch.me
