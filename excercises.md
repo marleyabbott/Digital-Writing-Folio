@@ -123,4 +123,10 @@ shower, runs. in.
 #### Remix N+7:
 https://flicker-detailed-scilla.glitch.me
 
+### Week 4 Reflection: 
 
+This class has expanded my perspective on what a reader is. If before I thought of a reader as static, I now understand that a reader in E-lit is also an interactor or collaborator, and when having to do actions and make decisions to allow the narrative to unfold, they ‘make the work’. This feels like a profound change in how I view my writing practice and who I create works for. 
+
+For my Folio, I have decided on using my piece called 'The Tank', named after the upside-down water tank my mum lived in for a portion of her childhood after her parents migrated from Calabria, Italy to regional Victoria. I believe using Twine would be the most effective tool to translate this story, so far, because of the illusion of choice a user-reader experiences when interacting with the piece, which mirrors the illusion of choice a migrant experienced in the 60's when moving to Australia, forced to move by poverty and thrust into a different form of poverty in Australia. 
+
+I also like the element of a concealed ending with Twine stories as opposed to traditional writing, where the user-reader is being led down a dark path with no end in sight. 
