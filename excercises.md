@@ -130,3 +130,6 @@ This class has expanded my perspective on what a reader is. If before I thought 
 For my Folio, I have decided on using my piece called 'The Tank', named after the upside-down water tank my mum lived in for a portion of her childhood after her parents migrated from Calabria, Italy to regional Victoria. I believe using Twine would be the most effective tool to translate this story, so far, because of the illusion of choice a user-reader experiences when interacting with the piece, which mirrors the illusion of choice a migrant experienced in the 60's when moving to Australia, forced to move by poverty and thrust into a different form of poverty in Australia. 
 
 I also like the element of a concealed ending with Twine stories as opposed to traditional writing, where the user-reader is being led down a dark path with no end in sight. 
+
+<img width="703" alt="Screenshot 2025-04-09 at 1 52 51 PM" src="https://github.com/user-attachments/assets/d12c2b34-93a8-4b38-a253-bfbfa5807225" />
+
