@@ -131,5 +131,58 @@ For my Folio, I have decided on using my piece called 'The Tank', named after th
 
 I also like the element of a concealed ending with Twine stories as opposed to traditional writing, where the user-reader is being led down a dark path with no end in sight. 
 
+### Week 5 Reflection: 
+This week's Required Reading (Aarseth 1997) unpacks some territory that speak directly to some of the great questions raised in your Case Study presnetations such as "in what sense can a hypertext be a narrative? Is hypertext a literary genre or a literary technique?" It introduces the important concept of "ergotics": "hypertext is not a reconfiguration of narrative but offers an alternative to it, as I try to demonstrate through the concept of ergodics." (p.95)
+
+What do you think of Aarseth's concept? explain how it offer an alternative to conventional ideas of narrative and the role of reader and writer?
+Regarding our discussion about new terms and concents for thinking beyond binaries: author/reader text/audience ficion/fact etc, and genres or 'silos': novel, poetry, essay, memoir, literature, art, game etc
+
+deleuze and the 'rhizome' from Wikipedia I will add an optional extended reading for anyone interesting in this idea
+
+new media art rhizome.org
+
+In Class
+How could you plan hypertext fiction?
+
+Discusion: online tools for mapping stories
+
+miro.com available to RMIT students log in with your student password.
+
+scrivener is a popular tool for writers that has a cork board function
+
+padlet.comthis is like an online post-it note board you should have a student login for this also
+
+Toward Assessment 2
+Proposals discussion and reflections in folio Required Activity for Final Folio
+
+What is emerging for you in terms of your own piece toward Assessment 2 and 3
+
+What platform and technology does it require?
+
+Do you know already if you can make it?
+
+What else do you need to learn in order to execute your vision for this piece?
+
+map your thoughts any way you like - use miro, use a corkboard, a table in a word doc, ppowerpoint, post it notes, whatever. If you use a physical medium take photos and pop them in a sharefolder linked to your Github folio.
+
+![IMG_9725](https://github.com/user-attachments/assets/76cea20a-3182-4d1b-9ed1-ccba7603af07)
+
+### Week 6 Reflection: 
+
+Toward Assessment 2 (and 3) activity and discussion
+
+See the slide deck on Canvas modules Student Works 2024. These are three successful examples of developed digital works and they are all very different.
+
+Critically reflect on these works by asking the same sort of questions as you asked of the case study Ass 1:
+
+How does it work? What does it do? How does the reader interact with the piece? What is conveyed by the digital work?
+How does the digital affordance work with the piece’s themes? Does its function deepen the meaning and interpretation of the themes for you as a reader?
+Think about: the relationship between imagery and text; how the text changes between readings; how movement acts in the work; the structure of the work; the technologies used.
+How does this work make you reflect on your own ideas and what you might do for your own piece? Requirement for final folio write 250 to 300 (minimum) words on this (can be done any time this week)
+See the slide deck on Canvas modules Jenny's Final Project
+Read the contextual statements and consider how the form and function of each aspect of this piece feeds into the themes of the work.
+See the map of Jenny's Twine story on Slide 8. How might you map your own emerging ideas? (If you have not already done the mapping exrcise from last week please catch up on this.)
+
 <img width="703" alt="Screenshot 2025-04-09 at 1 52 51 PM" src="https://github.com/user-attachments/assets/d12c2b34-93a8-4b38-a253-bfbfa5807225" />
 
+### Week 7 Reflection: 
