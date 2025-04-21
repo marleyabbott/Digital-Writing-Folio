@@ -186,3 +186,7 @@ See the map of Jenny's Twine story on Slide 8. How might you map your own emergi
 <img width="703" alt="Screenshot 2025-04-09 at 1 52 51 PM" src="https://github.com/user-attachments/assets/d12c2b34-93a8-4b38-a253-bfbfa5807225" />
 
 ### Week 7 Reflection: 
+
+Digital map for Folio:
+
+https://www.figma.com/board/17QS1O8jKgBHcQYV4EJt20/Untitled?node-id=0-1&t=kKiPW7HfXcbvSmdv-1
