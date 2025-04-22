@@ -19,17 +19,16 @@ In the <em>The Gathering Cloud</em>, I really enjoyed the metaphor of the cloud 
 
 <em>Shade</em> by Andrew Plotkin was the most intriguing work for me, although I found myself frustrated when I couldn't figure out how to get the character to drink water! After reading "Enlightening Interactive Fiction: Andrew Plotkin’s Shade" by Jeremy Douglass, I better understand how the narrative unfolds, though I doubt I would have reached the ending on my own. The illusion of reality dissolving is both brutal and beautiful, forcing the reader to reconstruct their understanding of the narrative space. The lack of visuals makes the reader an active participant in world-building, which made me realise that e-lit can operate on an entirely different sensory level than print. The second-person perspective intensifies this effect, further implicating the reader in the unfolding story. This is what makes e-lit so distinct from traditional fiction: it demands more from the reader, requiring participation and interaction rather than just consumption.
 
-### Week 2 Reflection:
-
-### Week 3 Reflection:
-
-### Week 4 Reflection:
-
 ### Week 5 Reflection:
 
-This week's Required Reading (Aarseth 1997) unpacks some territory that speak directly to some of the great questions raised in your Case Study presnetations such as "in what sense can a hypertext be a narrative? Is hypertext a literary genre or a literary technique?" It introduces the important concept of "ergotics": "hypertext is not a reconfiguration of narrative but offers an alternative to it, as I try to demonstrate through the concept of ergodics." (p.95)
+#### No senses of an ending : hypertext aesthetics ; chapter 4, pp. 78-96.
 
-What do you think of Aarseth's concept? explain how it offer an alternative to conventional ideas of narrative and the role of reader and writer?
-Regarding our discussion about new terms and concents for thinking beyond binaries: author/reader text/audience ficion/fact etc, and genres or 'silos': novel, poetry, essay, memoir, literature, art, game etc
+Espen Aarseth’s concept of ergodics really helps shift how I think about reading and writing—especially in a digital context. Instead of seeing hypertext as just a new way to tell a story, Aarseth reframes it as something other than narrative altogether. It’s not just about choosing-your-own-adventure; it’s about how much effort it takes to move through the text, and how that movement is the experience. This is especially relevant to creative practice—where I’m less interested in fixed forms and more drawn to work that invites exploration, play, and disorientation.
 
-deleuze and the 'rhizome' from Wikipedia I will add an optional extended reading for anyone interesting in this idea
+Aarseth’s analysis of Afternoon shows how a reader doesn’t just follow a story—they perform it, get stuck in it, even feel frustrated by it. That emotional and cognitive engagement becomes part of the meaning. It’s a good reminder that narrative doesn’t have to be the default. A work can feel like it’s telling a story even if it never fully reveals one. And maybe that’s closer to how memory, emotion, or identity actually function—fragmented, nonlinear, full of dead ends and epiphanies.
+
+This directly informs the design of my folio project. Instead of delivering a linear story about my Nonna and the water tank she once lived in, I want readers to walk the parameters of the story—figuratively and digitally. Through interactions, a confusing and overwhelming but familiar soundscape, they might experience the work rather than understand or interpret it, much like the way stories are passed down in real life: interrupted, re-told, emotionally charged, and sometimes incomplete. 
+
+What I find most useful is how Aarseth offers language to move beyond traditional binaries: author/reader, fiction/fact, literature/game. Afternoon isn't a novel in the classic sense, but it’s not not literature either. It exists in a hybrid space—a game of narration, a poetic machine. What if a poem could also be a map? What if a memoir could glitch? What if a reader becomes a navigator rather than an audience?
+
+My project isn’t a memoir in the classic sense, but it’s not not memoir either. It’s a poetic machine, a family archive glitched by geography, grief, and the unreliability of memory. Thinking through ergodics helps me reframe creative practice as less about expressing a fixed meaning, and more about constructing conditions for experience.
