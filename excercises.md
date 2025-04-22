@@ -175,7 +175,14 @@ Movement is essential to the narrative experience. Without reader engagement, th
 
 ### Week 7 Reflection: 
 
-Digital brainstorm map for Folio:
+#### Folio Ideation: 
+![img20231004_21490864](https://github.com/user-attachments/assets/0dd3359c-fb87-441a-b155-c26d2f4b83ef)
+
+<em>The journey into Santo Todaro is winding and mountainous, it's physically and emotionally taxing. Along the way, the protagonist encounters several dead ends, literal and metaphorical. The layout of the village reflects this: a chaotic layering of structures, staircases that lead nowhere, and buildings stacked with no obvious logic. It’s as though the architecture itself resists coherence — echoing the protagonist’s internal disorientation.
+This section draws on the concept of psychogeography. As the protagonist walks these uneven paths, turning sharp corners and retracing steps, the spatial confusion heightens a sense of displacement. The unfamiliar layout mirrors the protagonist’s fragmented sense of identity, and the inherited memories tied to this place become more potent. 
+The photograph shown here mirrors this experience — a narrow laneway hemmed in by mismatched walls, a staircase that feels more like a question than an answer.</em>
+
+#### Digital brainstorm map for Folio:
 <img width="855" alt="Screenshot 2025-04-22 at 10 36 24 PM" src="https://github.com/user-attachments/assets/aa18a217-75a6-400b-9e16-4f8303a568c5" />
 
 https://www.figma.com/board/17QS1O8jKgBHcQYV4EJt20/Untitled?node-id=0-1&t=kKiPW7HfXcbvSmdv-1
