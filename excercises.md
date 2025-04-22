@@ -1,4 +1,4 @@
-<img width="855" alt="Screenshot 2025-04-22 at 10 36 24 PM" src="https://github.com/user-attachments/assets/b5656d98-6d3e-46bb-8ff6-1caf0cef8a3a" /># Digital Writing
+# Digital Writing
 ## Exercises
 ### Week 1 Reflection: 
 <p>
