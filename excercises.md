@@ -139,7 +139,7 @@ https://padlet.com/mirandaabbott/the-architecture-of-me-ksw5j1kwvj4f3zf2
 #### An example of a monthly padlet I currently use to 'map' my thoughts, ideas, art making, etc for my writing practice:
 https://padlet.com/mirandaabbott/july-2024-9l6vamaqzlhwjgxq
 
-#### Folio Proposal Brainstorm Map 
+#### Folio Proposal Brainstorm Map:
 
 ![IMG_9725](https://github.com/user-attachments/assets/76cea20a-3182-4d1b-9ed1-ccba7603af07)
 
