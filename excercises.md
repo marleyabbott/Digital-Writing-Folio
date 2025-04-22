@@ -132,12 +132,6 @@ For my Folio, I have decided on using my piece called 'The Tank', named after th
 I also like the element of a concealed ending with Twine stories as opposed to traditional writing, where the user-reader is being led down a dark path with no end in sight. 
 
 ### Week 5 Reflection: 
-This week's Required Reading (Aarseth 1997) unpacks some territory that speak directly to some of the great questions raised in your Case Study presnetations such as "in what sense can a hypertext be a narrative? Is hypertext a literary genre or a literary technique?" It introduces the important concept of "ergotics": "hypertext is not a reconfiguration of narrative but offers an alternative to it, as I try to demonstrate through the concept of ergodics." (p.95)
-
-What do you think of Aarseth's concept? explain how it offer an alternative to conventional ideas of narrative and the role of reader and writer?
-Regarding our discussion about new terms and concents for thinking beyond binaries: author/reader text/audience ficion/fact etc, and genres or 'silos': novel, poetry, essay, memoir, literature, art, game etc
-
-deleuze and the 'rhizome' from Wikipedia I will add an optional extended reading for anyone interesting in this idea
 
 new media art rhizome.org
 
