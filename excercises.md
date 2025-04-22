@@ -1,4 +1,4 @@
-# Digital Writing
+<img width="855" alt="Screenshot 2025-04-22 at 10 36 24 PM" src="https://github.com/user-attachments/assets/b5656d98-6d3e-46bb-8ff6-1caf0cef8a3a" /># Digital Writing
 ## Exercises
 ### Week 1 Reflection: 
 <p>
@@ -187,6 +187,9 @@ See the map of Jenny's Twine story on Slide 8. How might you map your own emergi
 
 ### Week 7 Reflection: 
 
-Digital map for Folio:
+Digital brainstorm map for Folio:
+<img width="855" alt="Screenshot 2025-04-22 at 10 36 24 PM" src="https://github.com/user-attachments/assets/aa18a217-75a6-400b-9e16-4f8303a568c5" />
 
 https://www.figma.com/board/17QS1O8jKgBHcQYV4EJt20/Untitled?node-id=0-1&t=kKiPW7HfXcbvSmdv-1
+
+[UPDATE MAP IMAGE WHEN MAP IS FINALISED] 
