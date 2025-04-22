@@ -152,38 +152,40 @@ scrivener is a popular tool for writers that has a cork board function
 
 padlet.comthis is like an online post-it note board you should have a student login for this also
 
-Toward Assessment 2
-Proposals discussion and reflections in folio Required Activity for Final Folio
 
-What is emerging for you in terms of your own piece toward Assessment 2 and 3
-
-What platform and technology does it require?
-
-Do you know already if you can make it?
-
-What else do you need to learn in order to execute your vision for this piece?
-
-map your thoughts any way you like - use miro, use a corkboard, a table in a word doc, ppowerpoint, post it notes, whatever. If you use a physical medium take photos and pop them in a sharefolder linked to your Github folio.
+#### Folio Proposal Brainstorm Map 
 
 ![IMG_9725](https://github.com/user-attachments/assets/76cea20a-3182-4d1b-9ed1-ccba7603af07)
 
+*Archival research into family photographs and artefacts and an interview with my Nonna were conducted before mapping. This gave me provided me with new knowledge on the narrative I am exploring and provided me with an auditory and visual understanding of how I might create the soundscape within the work.*
+
 ### Week 6 Reflection: 
 
-Toward Assessment 2 (and 3) activity and discussion
+See the slide deck on Canvas modules Student Works 2024. These are three successful examples of developed digital works and they are all very different. Critically reflect on these works by asking the same sort of questions as you asked of the case study Ass 1:
 
-See the slide deck on Canvas modules Student Works 2024. These are three successful examples of developed digital works and they are all very different.
+**How does it work?**  
+<em>House on the Hill</em> is a browser-based interactive fiction work that invites the user/reader to explore a pixelated domestic space using standard keyboard navigation (arrow keys or WASD). The reader interacts with environmental objects and characters, each expanding fragments of a larger narrative. Text appears as though being typed, but the pacing can be controlled manually by the user. This introduces a subtle tension between narrative pacing and player impatience. 
 
-Critically reflect on these works by asking the same sort of questions as you asked of the case study Ass 1:
+**What does it do?**  
+The work constructs a sense of suspense and unease through its audiovisual atmosphere and the fragmented narrative structure. The looping music, combined with pixelated visuals and the soft, muted colour palette, evokes a sense of nostalgia. Interactions (like phone calls and character conversations) offer glimpses into a story of unresolved familial tension. The deliberate ambiguity of the narrative raises questions such as, whose house is this? what happened to cause the protagonist to run away? This compels the user/reader to explore the narrative to it's ending, even though that ending is concealed. 
 
-How does it work? What does it do? How does the reader interact with the piece? What is conveyed by the digital work?
-How does the digital affordance work with the piece’s themes? Does its function deepen the meaning and interpretation of the themes for you as a reader?
-Think about: the relationship between imagery and text; how the text changes between readings; how movement acts in the work; the structure of the work; the technologies used.
-How does this work make you reflect on your own ideas and what you might do for your own piece? Requirement for final folio write 250 to 300 (minimum) words on this (can be done any time this week)
-See the slide deck on Canvas modules Jenny's Final Project
-Read the contextual statements and consider how the form and function of each aspect of this piece feeds into the themes of the work.
-See the map of Jenny's Twine story on Slide 8. How might you map your own emerging ideas? (If you have not already done the mapping exrcise from last week please catch up on this.)
+**How does the reader interact with the piece?**  
+<em>House on the Hill</em> asserts a form of narrative co-authorship, where the player’s choices construct their own version of the story. The reader must actively navigate the space and choose which objects or characters to engage with. Crucially, the story does not advance without this interaction, meaning the narrative is entirely contingent on the reader’s movement and decisions. 
 
-<img width="703" alt="Screenshot 2025-04-09 at 1 52 51 PM" src="https://github.com/user-attachments/assets/d12c2b34-93a8-4b38-a253-bfbfa5807225" />
+**What is conveyed by the digital work?**  
+This work is a psychogeographical text, suggested through environmental clues and emotionally charged dialogue. Themes of family dysfunction, loss, and memory are conveyed through both the textual content and the domestic setting. The ambiguity invites multiple interpretation. Paired with the suspension of symbols alluding to something bad happening momentarily, this  strengthens its emotional resonance. 
+
+**How does the digital affordance work with the piece’s themes?**  
+Digital affordances—such as non-linear exploration, responsive text, and audio-visual elements —support the central themes of fragmentation and emotional discovery. The game mechanics do not simply house the narrative; they *are* the narrative. Each interaction represents a metaphorical unlocking of memory or meaning. The structure of the work encourages varied pathways through the story, subtly reflecting the subjective and often disjointed nature of memory itself. 
+
+**Does its function deepen the meaning and interpretation of the themes for you as a reader?**  
+Yes. The narrative is not fully delivered through text alone; it must be pieced together by the reader, mirroring the emotional labour of complex familial relationships. 
+
+**How does the text change between readings?**  
+The work is designed to support variation across readings. While it progresses toward a singular conclusion, the route taken alters the rhythm and emphasis of the experience. Some narrative fragments may be missed entirely depending on the reader’s path, inviting multiple play-throughs of the piece. 
+
+**Movement**  
+Movement is essential to the narrative experience. Without reader engagement, the story remains dormant. Movement is not just a visual device—it’s a structural and thematic engine. Kinetic elements—such as blinking cursors, flickering lights, and characters that float or glitch—create a sense of intrigue and immersion. The text is not a thriller story, flat on the page, but an entire world that user/reader's become implicated in when making choices around the narrative direction. 
 
 ### Week 7 Reflection: 
 
