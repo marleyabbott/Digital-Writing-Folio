@@ -133,19 +133,11 @@ I also like the element of a concealed ending with Twine stories as opposed to t
 
 ### Week 5 Reflection: 
 
-new media art rhizome.org
+#### A padlet I currently use to 'map' all of my Inspiration for my writing practice:
+https://padlet.com/mirandaabbott/the-architecture-of-me-ksw5j1kwvj4f3zf2
 
-In Class
-How could you plan hypertext fiction?
-
-Discusion: online tools for mapping stories
-
-miro.com available to RMIT students log in with your student password.
-
-scrivener is a popular tool for writers that has a cork board function
-
-padlet.comthis is like an online post-it note board you should have a student login for this also
-
+#### An example of a monthly padlet I currently use to 'map' my thoughts, ideas, art making, etc for my writing practice:
+https://padlet.com/mirandaabbott/july-2024-9l6vamaqzlhwjgxq
 
 #### Folio Proposal Brainstorm Map 
 
