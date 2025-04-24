@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/0efdaafb-5e50-4146-bcaa-1c06f9ef18eb)# Digital Writing
 ## Exercises
 ### Week 1 Reflection: 
 <p>
