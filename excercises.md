@@ -183,11 +183,9 @@ This section draws on the concept of psychogeography. As the protagonist walks t
 The photograph shown here mirrors this experience — a narrow laneway hemmed in by mismatched walls, a staircase that feels more like a question than an answer.</em>
 
 #### Digital brainstorm map for Folio:
-<img width="855" alt="Screenshot 2025-04-22 at 10 36 24 PM" src="https://github.com/user-attachments/assets/aa18a217-75a6-400b-9e16-4f8303a568c5" />
+<img width="800" alt="Screenshot 2025-04-24 at 3 36 40 PM" src="https://github.com/user-attachments/assets/50a7bb37-b4b0-480a-9eca-1bcae6270fc2" />
 
 https://www.figma.com/board/17QS1O8jKgBHcQYV4EJt20/Untitled?node-id=0-1&t=kKiPW7HfXcbvSmdv-1
-
-[UPDATE MAP IMAGE WHEN MAP IS FINALISED] 
 
 #### Folio Troubleshooting:
 
