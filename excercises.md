@@ -185,3 +185,76 @@ The photograph shown here mirrors this experience — a narrow laneway hemmed in
 <img width="800" alt="Screenshot 2025-04-24 at 3 36 40 PM" src="https://github.com/user-attachments/assets/50a7bb37-b4b0-480a-9eca-1bcae6270fc2" />
 
 https://www.figma.com/board/17QS1O8jKgBHcQYV4EJt20/Untitled?node-id=0-1&t=kKiPW7HfXcbvSmdv-1
+
+### Week 8 Reflection: 
+
+#### Reflection on Feedback and Peer Presentations Required activity for final folio (can be completed anytime this week)
+*What has been introduced? Summarise your proposed piece*
+
+##### What are the themes and ideas is your piece is exploring?:
+The themes I will be exploring:
+-       Translation: Dialect vs Italian vs English
+-       Psycho-geography
+-       Sacrifice
+-       Generational continuity: the story continuing inside of us
+-       Poverty and trauma due to immigration
+-       Object symbolism
+
+##### What literary genre or style are you drawing on? Is it narrative driven or more poetic and associative? Or essayistic?
+'The Tank' is a creative non-fiction work that uses poetic associations that leans into misunderstanding to illustrate an experience of being between two languages and two homes. It works with two timelines: the inherited (my mother's childhood story) and the present (my own experience of visiting the village alone. 
+
+A layered soundscape deepens the disorientation—English text is interrupted by recordings in Calabrese, including voices of my nonna, nonno, and mother. The overlap fragments the reading experience, mirroring the protagonist’s struggle to grasp meaning in a language she only half-knows.
+
+##### What is the story? Or, what do you want to express/communicate through this piece?
+The title of the work is called, ‘The Tank’. The Tank is a digital work made using twine that traces the protagonist’s journey through their family’s village, Santo Todaro in Southern Italy. 
+
+Written in second person, the protagonist (you) traces a family story passed down through generations. The piece moves between present-day experiences of visiting the village for the first time and inherited memories and stories, using family photographs, a soundscape and interactive elements. 
+
+My aim with ‘The Tank’ is to explore what it means to return to a place you've never physically been but have experienced through inheritance. The project invites the user/reader to experience disorientation, psycho-geographical memory, and the limitations, and power, of translation. 
+
+In writing this piece, I was very inspired by this KYD piece, ‘The Still’ by Scott McCulloch: https://www.killyourdarlings.com.au/article/the-still/
+
+##### What do you wish the reader to understand or feel?
+I want the reader to be caught between two worlds and feel on the brink of understanding, but ultimately feel lost. I want the reader to navigate the journey through psycho-geography (places holding deep resonance) and for the two timelines and countries to intersect by the ending of the playthrough. 
+
+##### What needs to be developed?
+As the written portion of the work is mostly developed, the soundscape is the main element of the work that needs to be worked on I also need to work on coding the visual elements so that the transition of my vision from clean editorial to messy kitchen table can be executed. 
+
+##### What drives the reader’s momentum through the piece?
+A desire to understand the untranslatable elements as well as a desire to connect the two timelines (the tank and the village) will drive the reader's momentum. The physical journey leading into and out of the village will also be a more tangible way that the reader navigates the story. This is where the inherited story and present-day timeline come together, while the visual and auditory elements become more layered and chaotic. The story resists coherence because of the nature of immigration and displacement: things get lost in translation, things get left behind and new paths get forged while tendrils to the past cannot be cut. 
+
+##### How does the literary and the digital drive the momentum together with the piece’s thematic?
+
+The soundscape draws on archival recordings of my nonna, nonno, and mum speaking Italian, layered over the English narration to heighten the sense of linguistic dissonance. Sound effects will be used, such as echo’s and water droplets to mimick being inside the tank.
+
+Archival photographs of my family and the village will appear alongside the text, grounding the piece in a personal and historical visual language. Initially, the work has a clean, editorial aesthetic—but as the narrative unfolds, this minimalist style begins to fracture. The layout becomes increasingly chaotic and disorienting, visually mirroring the narrator’s emotional fragmentation. Fade outs, flashing text and text being revealed will be used to emphasize the writing. The work will completely transform into something that emulates a kitchen table in a poor Italian household.
+
+*Second person voice*
+- Proximity vs. distance
+- Reader placed inside the narrator’s body
+- Reflects narrator’s dissociation—can’t claim I
+- Digital writing: game/story boundary blurs
+- Second person boosts interactivity & emotional stakes
+- Voice = not style, but structural necessity
+
+While the narrative branch on Twine is somewhat linear, the user/reader will still make some choices about how the narrative progresses  and they will be able to interact with the text using functions such as clicking to reveal text underneath images.
+
+*Scope and Scale*
+
+##### How many words will it be?
+- The current draft is roughly 1,500 words
+  
+##### How many screens?
+- 20-30 screens 
+
+##### What do you need to do on a week-by-week basis (is this realistic?)
+- Week 8: Intro finalised
+- Week 9: Chapter 1 and 2 finalised
+- Week 10: Chapter 3 and 4 finalised
+- Week 11: Chapter 5 and 6 finalised
+- Week 12: Ending finalised and troubleshooting
+
+##### What is the tech that might get you stuck? what is the workaround/Plan B?
+- Adding images, image maps and image backgrounds (I feel confident that with the help of resources, classmates and chatGPT that I will be able to execute the images, however the CSS for formatting images in the way I envision will be time consuming). 
+- Adding audio for the soundscape, and layering the audio so the sounds begin to collate and become more chaotic (If the audio can't be executed because of Harlowe, I am confident the themes of the piece will carry the rest of the work). 
+- Visual effects such as fade outs, flickering, texting falling/collapsing (I am confident that these will work as I have seen them work successfully in the works of students from last year, but it is important to not that it can be time consuming to add these elements). 
