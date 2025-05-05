@@ -162,3 +162,10 @@ As a final working solution, I applied CSS animations with @keyframes, and used 
   (replace: ?fadeOut)[]
   (goto: "Next Passage")
 ]
+##### Fade to Black Effect 
+
+I wanted a cinematic “fade to black” transition in my Twine project to move from one passage to the next. Initially, I experimented with a flicker effect using (live:) loops and alternating opacity, but it felt too intense and visually clashed with the rest of the story — especially when it interfered with positioned images. I also found the flicker didn't create the emotional tone I wanted for this particular moment, which was more about quiet fading than chaotic disruption.
+
+After testing a few variations, I decided to remove the flicker altogether and replace it with a delayed, smooth fade-out. I wrote a short block of CSS to create a black screen overlay with a slowFadeToBlack animation, which gradually increased opacity from 0 to 1 over 4 seconds. I then used Twine’s (after:) macro to trigger this fade 6 seconds into the passage, and after a full 10 seconds (6 seconds visible + 4 seconds fade), I transitioned to the next passage using (goto:).
+
+This effect gave me exactly what I wanted: a gentle fade that feels like closing your eyes or losing memory — an emotional, visual punctuation mark that complements the narrative tone.
