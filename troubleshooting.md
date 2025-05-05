@@ -1,6 +1,6 @@
 ## Folio Troubleshooting:
 
-##### Troubleshooting the Appearance of Parentheses in My Twine Project
+### Troubleshooting the Appearance of Parentheses in My Twine Project
 
 I started by trying to display large, bold parentheses ( ) in my Twine project using a CSS class called .big-brackets. Initially, the parentheses didn’t appear, even though I had added the correct HTML structure and applied CSS rules to make them visible.
 
@@ -37,7 +37,7 @@ CopyEdit
 }
 With this, the parentheses finally appeared! However, they were too large for my design.
 
-##### Troubleshooting the Audio Not Playing in My Twine Story
+### Troubleshooting the Audio Not Playing in My Twine Story
 I encountered an issue while trying to add background audio to my Twine game. The code I initially used was:
 html
 CopyEdit
@@ -86,7 +86,7 @@ CopyEdit
 </audio>
 But this didn't fix the issue either. The browser still couldn’t locate the file, and the audio still didn’t play. I'm still working on resolving this issue. 
 
-##### Troubleshooting Fade-out transition
+### Troubleshooting Fade-out transition
 1. Attempt 1: Using transition with (enchant:) and css
 The goal was to apply a fade-out using a transition on opacity, but it didn’t trigger the fade effect correctly, and the text disappeared immediately after the 4s wait without fading.
 Code:
@@ -162,10 +162,38 @@ As a final working solution, I applied CSS animations with @keyframes, and used 
   (replace: ?fadeOut)[]
   (goto: "Next Passage")
 ]
-##### Fade to Black Effect 
+### Troubleshooting Fade to Black Effect 
 
 I wanted a cinematic “fade to black” transition in my Twine project to move from one passage to the next. Initially, I experimented with a flicker effect using (live:) loops and alternating opacity, but it felt too intense and visually clashed with the rest of the story — especially when it interfered with positioned images. I also found the flicker didn't create the emotional tone I wanted for this particular moment, which was more about quiet fading than chaotic disruption.
 
 After testing a few variations, I decided to remove the flicker altogether and replace it with a delayed, smooth fade-out. I wrote a short block of CSS to create a black screen overlay with a slowFadeToBlack animation, which gradually increased opacity from 0 to 1 over 4 seconds. I then used Twine’s (after:) macro to trigger this fade 6 seconds into the passage, and after a full 10 seconds (6 seconds visible + 4 seconds fade), I transitioned to the next passage using (goto:).
 
 This effect gave me exactly what I wanted: a gentle fade that feels like closing your eyes or losing memory — an emotional, visual punctuation mark that complements the narrative tone.
+
+### Troubleshooting the Appearance of "Maybe" hyperlink
+
+I ran into an issue where the word "maybe" was showing up as a blue, underlined link in my Twine project, even though I didn’t want it to be styled like a hyperlink. My goal was to make "maybe" appear as regular text without the default blue color and underline associated with links.
+
+Step 1: Initial Setup with click-append
+
+I started by using the click-append macro to append the word "maybe" to my passage. The idea was that clicking it would display more text below. However, by default, the word "maybe" still appeared as a blue link, and I needed to remove that blue, clickable style.
+
+Step 2: Investigating CSS Styles
+
+I tried several attempts to target the tw-link elements, which are automatically created by click-append. I applied CSS rules to make sure the link wouldn't appear blue or underlined, using selectors like tw-link[click-append]. However, the changes didn’t take effect as expected, and the word "maybe" remained blue and underlined.
+
+Step 3: Applying !important to Force Styles
+
+To ensure my CSS rules were being applied, I added !important to all my style declarations. While this made sure the styles were applied, the link still appeared blue, so I realized I needed to refine the approach.
+
+Step 4: Troubleshooting with Basic CSS Styling
+
+After inspecting the behavior in the browser and trying different styles, I confirmed that the problem was related to how Twine handles click-append. Despite applying all the right CSS properties, it still wasn’t overriding the default link styling.
+
+Step 5: Testing Simpler Code and Structure
+
+I also tested a simpler, non-interactive version of my passage to ensure that the CSS was working correctly for regular text. This allowed me to rule out any conflicts between Twine’s HTML structure and my custom CSS.
+
+Step 6: Refining the Approach
+
+Ultimately, I didn’t reach a full solution where the "maybe" text was perfectly styled. I tried various combinations of CSS, but the blue link style remained stubborn. I had to pause troubleshooting and will revisit this in the future with a clearer focus.
