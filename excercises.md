@@ -258,3 +258,20 @@ While the narrative branch on Twine is somewhat linear, the user/reader will sti
 - Adding images, image maps and image backgrounds (I feel confident that with the help of resources, classmates and chatGPT that I will be able to execute the images, however the CSS for formatting images in the way I envision will be time consuming). 
 - Adding audio for the soundscape, and layering the audio so the sounds begin to collate and become more chaotic (If the audio can't be executed because of Harlowe, I am confident the themes of the piece will carry the rest of the work). 
 - Visual effects such as fade outs, flickering, texting falling/collapsing (I am confident that these will work as I have seen them work successfully in the works of students from last year, but it is important to not that it can be time consuming to add these elements). 
+
+### Week 9 Reflection: 
+
+It is a requirement that you have published your version of the coding playground - which we worked on in Weeks 1–3 - and included it in your Assessment 3 folio which you should familiarise yourself with now. You will need to include the URL of both your GitHub repository for the playground, and one link either to the deployed site which you've published through GitHub Pages, Vercel, Netlify or other free host. Same for your author website, main project and other coding experiments.
+
+In previous years, people have lost marks on the final assessment where they have said things like "I don't know how to publish my site". The multiple video recordings, such as the one above and the Twine image maps video that shows you how to create and publish a Twine project, are designed to help you overcome such hurdles. If you need a video recording of any other specific knowledge, please request it in advance. We will not be available for consultation beyond the final class on Wednesday 28th May so figure out what you need to know asap.
+
+Wednesday class – 7th April
+Any remaining Assessment 2 presentations.
+
+Today we will continue work on the creative development of your piece. You will work in small groups to workshop your concept and prototype pages asking your peers to consider the same questions you considered yourself last week:
+
+What are the themes and ideas the piece is exploring?
+what drives the reader’s momentum through the piece?
+how does the digital feed into this momentum?
+what suggestions can you make for the reader experience?
+Requirement for final folio (200 words minimum - can be done any time this week) Update your folio with a summary and reflection on the feedback you recieved and dot points for next steps with planned dates for doing it.
