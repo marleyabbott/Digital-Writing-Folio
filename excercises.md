@@ -271,35 +271,6 @@ Requirement for final folio (200 words minimum - can be done any time this week)
 
 ### Week 10 Reflection: 
 
-5 - 7 mins: Make some quick and dirty reflective notes:
-
-what were your expectations coming into the class and what have you learnt?
-how has your creative writing practice developed? are there new directions? Or perhaps it has confirmed something about your practice as it was?
-what particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!
-Showcase presentation idea - drawing on your reflections, perhaps everyone reads one line of a collective collage work made up of expectations from week 1 and current reflections on learning. This is just a suggestion but it could be fun. We can finalise on Wednesday.
-
-These are your expectations from Week 1:
-
-Understanding what’s happening in the digital space as an analogue person
-Where does DW intersect with current technologies and how can we use these to augment writerly works?
-Curious to learn new things
-What even is software development and coding?
-How can we take writing (an old technology) into a contemporary space?
-Learning about possibilities of form, especially concrete poetry
-How does writing in code look on the page?
-Developing skills: CSS, custom coding beyond basics especially in poetry space
-Where will the formatting take our writing?
-Interactive elements
-Learning to upgrade writing skills in digital world
-Experimenting with form
-Interactive fiction, digital entropy, impermanence
-Moving out of comfort zone, past the Word doc
-How do different digital elements change the way someone experiences a work
-How can the audience interact with and alter the meaning of the poem?
-How can DW break boundaries and rules of analogue? How can we then break DW rules?
-Wednesday class – 14th May
-Assessment 3 Folio Requirements: Q&A and run through details.
-
 #### Discuss how you came to be a part of the Digital Writing Studio and why you chose it.
 
 *Why did you choose this studio?*
