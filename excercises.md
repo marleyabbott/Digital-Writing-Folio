@@ -270,7 +270,6 @@ what suggestions can you make for the reader experience?
 Requirement for final folio (200 words minimum - can be done any time this week) Update your folio with a summary and reflection on the feedback you recieved and dot points for next steps with planned dates for doing it.
 
 ### Week 10 Reflection: 
-Reflection Activity: (document this activity in your GitHub, these notes will be helpful for developing your final critical reflection too)
 
 5 - 7 mins: Make some quick and dirty reflective notes:
 
@@ -301,9 +300,17 @@ How can DW break boundaries and rules of analogue? How can we then break DW rule
 Wednesday class – 14th May
 Assessment 3 Folio Requirements: Q&A and run through details.
 
-Reflection Activity 2: discussion of your reflections from Monday and identify key points for 500 words critical reflective piece for folio.
+#### Discuss how you came to be a part of the Digital Writing Studio and why you chose it.
 
-Collective authoring of collective presentation score for Showcase next Monday.
+*Why did you choose this studio?*
+I chose this studio because of the interactive nature of the digital format intrigued me, and I wanted to explore how my work may be informed by reader input. 
 
-Consultations and working on creative pieces.
+*What knowledge did you possess of digital writing/interactive fiction prior to this studio?*
+I had come across Twine pieces on literary journals such as Voiceworks, and I really enjoyed these works and how they expanded the possibilities of what can be conveyed through writing. However I was unaware of the platform's name or how these pieces would have been made. I also thought that E-lit may be literature inspired by 'internet writing', and thought of authors such as Tao Lin, who was heavily involved in the literary world on social media in the early 2010's. 
 
+What were you excited about learning or furthering your knowledge on?
+*What were you worried about when joining this studio?*
+I was worried (and still might be...) that my aversion to technology would hold me back. I would rather write in nature and use place-based methods and the idea of coding for hours on my computer didn't excite me at all. 
+
+*Discuss what we learnt about and what interested you*
+I thought code was extremely black and white. I thought it was like simple math, where there is a right and wrong answer. I now understand how creative it can be, and how one decision can affect many others, more like the creative act than an exact science. 
