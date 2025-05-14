@@ -308,8 +308,7 @@ I chose this studio because of the interactive nature of the digital format intr
 *What knowledge did you possess of digital writing/interactive fiction prior to this studio?*
 I had come across Twine pieces on literary journals such as Voiceworks, and I really enjoyed these works and how they expanded the possibilities of what can be conveyed through writing. However I was unaware of the platform's name or how these pieces would have been made. I also thought that E-lit may be literature inspired by 'internet writing', and thought of authors such as Tao Lin, who was heavily involved in the literary world on social media in the early 2010's. 
 
-What were you excited about learning or furthering your knowledge on?
-*What were you worried about when joining this studio?*
+*What were you excited about learning or furthering your knowledge on? What were you worried about when joining this studio?*
 I was worried (and still might be...) that my aversion to technology would hold me back. I would rather write in nature and use place-based methods and the idea of coding for hours on my computer didn't excite me at all. 
 
 *Discuss what we learnt about and what interested you*
