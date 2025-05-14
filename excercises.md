@@ -277,25 +277,6 @@ what suggestions can you make for the reader experience?
 Requirement for final folio (200 words minimum - can be done any time this week) Update your folio with a summary and reflection on the feedback you recieved and dot points for next steps with planned dates for doing it.
 
 ### Week 10 Reflection: 
-Monday class – 12th May
-Today we will spend the first two-plus hours of class troubleshooting common errors and making sure you have the tools you need to meet the requirements of the folio. Please bring to class any issues that you are having with your code, so that we can work together to problem-solve. If there is anything that we cannot solve together, provided that you send me aka Jenny a link to your code asap, I will research possible solutions for you.
-
-You are welcome to take breaks as needed during class and to work in small groups to take advantage of the hive mind. This will be especially useful if you know people are using similar code to you.
-
-Next Monday we will meet in class at 2.30pm as usual and run through an hour of troubleshooting before we walk over to 8.4.13 together for the showcase which runs from 3.30–5pm.
-
-Note re Wednesday drop-in sessions for troubleshooting
-
-Jenny will be approximately 10 minutes late to the final three Wednesday 5.15pm drop-in sessions due to parenting demands, and will keep the meetings open at least 10 minutes later, until 6.25pm, to accommodate troubleshooting.
-
-Please take advantage of these sessions as Jenny will only be available for consultation through the Wednesday drop-in session of Week 12. Please be mindful that Jenny is employed as a casual, short-term academic and is not contracted to work beyond Wednesday 28th May except for a specific number of marking hours to grade assessments.
-
-Today from 4.45pm: structured time to plan the Horizons showcase which will take place during class next Monday
-
-Showcase Location: 008.004.013 Each class has 30 minutes. There are heaps of tables in the room so it would be great to bring laptops and have WIP pieces available for people to test and play with.
-
-Now: showcase preparation is the first activity in the reflective phase of the course where you can begin to identify and articulate key insights and learning that has happened for you.
-
 Reflection Activity: (document this activity in your GitHub, these notes will be helpful for developing your final critical reflection too)
 
 5 - 7 mins: Make some quick and dirty reflective notes:
@@ -329,6 +310,7 @@ Assessment 3 Folio Requirements: Q&A and run through details.
 
 What needs to be in the PDF? What needs to be in the GitHub repo?
 2024 exemplars
+
 Reflection Activity 2: discussion of your reflections from Monday and identify key points for 500 words critical reflective piece for folio.
 
 Collective authoring of collective presentation score for Showcase next Monday.
