@@ -261,13 +261,6 @@ While the narrative branch on Twine is somewhat linear, the user/reader will sti
 
 ### Week 9 Reflection: 
 
-It is a requirement that you have published your version of the coding playground - which we worked on in Weeks 1–3 - and included it in your Assessment 3 folio which you should familiarise yourself with now. You will need to include the URL of both your GitHub repository for the playground, and one link either to the deployed site which you've published through GitHub Pages, Vercel, Netlify or other free host. Same for your author website, main project and other coding experiments.
-
-In previous years, people have lost marks on the final assessment where they have said things like "I don't know how to publish my site". The multiple video recordings, such as the one above and the Twine image maps video that shows you how to create and publish a Twine project, are designed to help you overcome such hurdles. If you need a video recording of any other specific knowledge, please request it in advance. We will not be available for consultation beyond the final class on Wednesday 28th May so figure out what you need to know asap.
-
-Wednesday class – 7th April
-Any remaining Assessment 2 presentations.
-
 Today we will continue work on the creative development of your piece. You will work in small groups to workshop your concept and prototype pages asking your peers to consider the same questions you considered yourself last week:
 
 What are the themes and ideas the piece is exploring?
@@ -307,9 +300,6 @@ How can the audience interact with and alter the meaning of the poem?
 How can DW break boundaries and rules of analogue? How can we then break DW rules?
 Wednesday class – 14th May
 Assessment 3 Folio Requirements: Q&A and run through details.
-
-What needs to be in the PDF? What needs to be in the GitHub repo?
-2024 exemplars
 
 Reflection Activity 2: discussion of your reflections from Monday and identify key points for 500 words critical reflective piece for folio.
 
