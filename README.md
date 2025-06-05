@@ -20,4 +20,5 @@ https://flicker-detailed-scilla.glitch.me
 https://marleyabbott.github.io/the-tank-1/
 
 ### CV:
-(https://github.com/user-attachments/files/20613236/Marketing.and.Sales.Resume.in.Light.Brown.Black.Warm.Classic.Style.pdf)
+[CV- Miranda Abbott.pdf](https://github.com/user-attachments/files/20613253/CV-.Miranda.Abbott.pdf)
+
