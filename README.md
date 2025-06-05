@@ -18,3 +18,6 @@ https://flicker-detailed-scilla.glitch.me
 
 ### Final Twine Developed Work:
 https://marleyabbott.github.io/the-tank-1/
+
+### CV:
+(https://github.com/user-attachments/files/20613236/Marketing.and.Sales.Resume.in.Light.Brown.Black.Warm.Classic.Style.pdf)
