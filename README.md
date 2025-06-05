@@ -1,7 +1,8 @@
-# Digital-Writing-Folio
+![image](https://github.com/user-attachments/assets/376c8528-92bb-4eb5-83b1-6461ed90bda5)# Digital-Writing-Folio
 
 ### Author Bio:
-Miranda Abbott is an emerging writer from Naarm (Melbourne), Australia studying a Bachelor of Creative Writing at RMIT. Her practice explores hidden memory and the body’s role in writing. Her work has been published in The Big Issue, Baby Teeth Journal, and in the anthology, 'Stranger Weather' from Melbourne University's Grattan Street Press. She is currently interning with the Stella Prize. Miranda uses writing as a means of contemplation. You can contact her through mirandaabbott.com.au 
+Miranda Abbott is an emerging writer based in Naarm (Melbourne), Australia, currently studying a Bachelor of Creative Writing at RMIT University. Her practice explores hidden memory and the body's role in the act of writing. Her work has appeared in The Big Issue, Baby Teeth Journal, and an anthology published by Grattan Street Press. She is currently interning with the Stella Prize.
+Before writing, Miranda worked as a youth worker and holistic counsellor, eventually finding her way to CERES, where she now teaches environmental education. This work with land has shown her that both ecology and writing require resisting control and a kind of disciplined noticing.
 
 ### Author Website:
 https://www.mirandaabbott.com.au/
